@@ -41,10 +41,11 @@ html, body {
     justify-content: center;
     background-color: pink;
     height: 50px;
-    width: 200px;
+    width: 300px;
 }
 
 .value{
     font-size: 50px;
     font-weight: bold;
+    white-space: nowrap;
 }
