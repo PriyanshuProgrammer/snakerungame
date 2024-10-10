@@ -41,6 +41,7 @@ html, body {
     justify-content: center;
     background-color: pink;
     height: 50px;
+    width: 200px;
 }
 
 .value{
